@@ -12,7 +12,7 @@ public class Min {
 				min = a.get(i);
 
 		}
-		System.out.println("最小值： " + min);
+		System.out.println("最小值是： " + min);
 		return a;
 	}
 
